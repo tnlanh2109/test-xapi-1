@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
 	<activities>
-		<activity id="http://vien-elearning.vn/bai-test-xapi-1" type="http://adlnet.gov/expapi/activities/course">
+		<activity id="https://vien-elearning.vn/bai-test-xapi-1" type="http://adlnet.gov/expapi/activities/course">
 			<name lang="und">Test_xAPI</name>
 			<description lang="und" />
 			<launch lang="und">index_lms.html</launch>
 		</activity>
-		<activity id="http://vien-elearning.vn/bai-test-xapi-1/5xhgaliIlUx" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="https://vien-elearning.vn/bai-test-xapi-1/5xhgaliIlUx" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">NhapTen</name>
 			<description lang="und">NhapTen</description>
 		</activity>
-		<activity id="http://vien-elearning.vn/bai-test-xapi-1/6KM4CBFVijC" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="https://vien-elearning.vn/bai-test-xapi-1/6KM4CBFVijC" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Tuoi</name>
 			<description lang="und">Tuoi</description>
 		</activity>
-		<activity id="http://vien-elearning.vn/bai-test-xapi-1/62m9ER6Q8R1" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="https://vien-elearning.vn/bai-test-xapi-1/62m9ER6Q8R1" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">CoBan</name>
 			<description lang="und">CoBan</description>
 		</activity>
-		<activity id="http://vien-elearning.vn/bai-test-xapi-1/6fLYM0vuoTU" type="http://adlnet.gov/expapi/activities/module">
+		<activity id="https://vien-elearning.vn/bai-test-xapi-1/6fLYM0vuoTU" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">NangCao</name>
 			<description lang="und">NangCao</description>
 		</activity>
